@@ -30,5 +30,3 @@ Then configure the VM with Docker and Git.
 
 > Security note: never commit real credentials or private keys.
 
-## Portfolio impact
-This is the foundation project. It shows that you understand how an application moves from source code to a repeatable containerized deployment.
